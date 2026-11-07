@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1f44"/>
+      <stop offset="0.55" stop-color="#123a7a"/>
+      <stop offset="1" stop-color="#1d4e9e"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c9a227"/>
+      <stop offset="1" stop-color="#e8c95a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <circle cx="1060" cy="40" r="150" fill="#ffffff" opacity="0.05"/>
+  <circle cx="1130" cy="230" r="110" fill="#ffffff" opacity="0.04"/>
+  <circle cx="90" cy="280" r="90" fill="#ffffff" opacity="0.04"/>
+  <rect x="0" y="284" width="1200" height="6" fill="url(#gold)"/>
+  <text x="70" y="118" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="62" font-weight="700" fill="#ffffff" letter-spacing="1">Abbas Hamidavi</text>
+  <text x="72" y="168" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="29" font-weight="600" fill="#e8c95a" letter-spacing="3">MACHINE PSYCHOLOGY · AI SAFETY · LLM BEHAVIOUR</text>
+  <text x="72" y="216" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#d7e3f5">Probing how large language models behave, break, and describe themselves.</text>
+  <text x="72" y="252" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#9db8dd">Independent Research Programme · Islamic Azad University, Mashhad · Fall 2027 PhD applicant</text>
+</svg>
